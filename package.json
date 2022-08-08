@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "bottender": "^0.14.9"
+  },
+  "name": "bot-line",
+  "version": "1.0.0",
+  "description": "bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Dimas Praditya",
+  "license": "ISC"
+}
